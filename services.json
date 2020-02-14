@@ -3,15 +3,15 @@
 	"Parameters": {
 		"EnvironmentName": {
 			"Type": "String",
-			"Default": "preprod"
+			"Default": "test"
 		},
 		"ServiceName": {
 			"Type": "String",
-			"Default": "test"
+			"Default": "my-app-service-01"
 		},
 		"ClusterName": {
 			"Type": "String",
-			"Default": "infostretch"
+			"Default": "Dev-cluster"
 		},
 		"DesiredCount": {
 			"Type": "Number",
