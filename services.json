@@ -11,7 +11,7 @@
 		},
 		"ClusterName": {
 			"Type": "String",
-			"Default": "Miles-clutser"
+			"Default": "miles-clutser"
 		},
 		"DesiredCount": {
 			"Type": "Number",
