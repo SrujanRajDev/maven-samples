@@ -7,11 +7,11 @@
 		},
 		"ServiceName": {
 			"Type": "String",
-			"Default": "my-app-service-01"
+			"Default": "web-proxy"
 		},
 		"ClusterName": {
 			"Type": "String",
-			"Default": "Dev-cluster"
+			"Default": "Miles-clutser"
 		},
 		"DesiredCount": {
 			"Type": "Number",
